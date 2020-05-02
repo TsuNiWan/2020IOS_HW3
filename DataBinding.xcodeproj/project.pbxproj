@@ -18,7 +18,7 @@
 
 /* Begin PBXFileReference section */
 		43BD8803245DD885007F4AAF /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
-		43F1D25824591E89008240E7 /* DataBinding.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DataBinding.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		43F1D25824591E89008240E7 /* MyDreamCar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyDreamCar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43F1D25B24591E89008240E7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		43F1D25D24591E89008240E7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		43F1D25F24591E89008240E7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		43F1D25924591E89008240E7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				43F1D25824591E89008240E7 /* DataBinding.app */,
+				43F1D25824591E89008240E7 /* MyDreamCar.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,7 +95,7 @@
 			);
 			name = DataBinding;
 			productName = DataBinding;
-			productReference = 43F1D25824591E89008240E7 /* DataBinding.app */;
+			productReference = 43F1D25824591E89008240E7 /* MyDreamCar.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -297,7 +297,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = TsuNiWan.DataBinding;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = MyDreamCar;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -316,7 +316,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = TsuNiWan.DataBinding;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = MyDreamCar;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
